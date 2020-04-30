@@ -1,0 +1,58 @@
+{
+  "residents": [{
+    "id": 0,
+    "name": "Modern Residence in Zurich",
+    "address": " Buckhauserstr 24, Altstetten, 8048 Zürich, CH",
+    "beds": 3,
+    "toilets": 2,
+    "square": 20,
+    "img": "http://mariusn.com/themes/reales/images/prop/1-1.png"
+  }, {
+    "id": 1,
+    "name": "Hauntingly Beautiful Estate",
+    "address": " Musterstrasse 2, Zurich, 8048 Zurich, CH",
+    "beds": 2,
+    "toilets": 1,
+    "square": 20,
+    "img": "http://mariusn.com/themes/reales/images/prop/2-1.png"
+  }, {
+    "id": 2,
+    "name": "Modern Residence in Bern",
+    "address": " Musterstrasse 3, Bern, 4000 Bern, CH",
+    "beds": 3,
+    "toilets": 3,
+    "square": 20,
+    "img": "http://mariusn.com/themes/reales/images/prop/1-1.png"
+  }, {
+    "id": 3,
+    "name": "Beautiful Zurich Style Estate",
+    "address": " Musterstrasse 4, Altstetten, 8048 Zürich, CH",
+    "beds": 4,
+    "toilets": 2,
+    "square": 20,
+    "img": "http://mariusn.com/themes/reales/images/prop/2-1.png"
+  }, {
+    "id": 4,
+    "name": "Modern Residence in Zurich",
+    "address": " Musterstrasse 5, Altstetten, 8048 Zürich, CH",
+    "beds": 1,
+    "toilets": 1,
+    "square": 20,
+    "img": "http://mariusn.com/themes/reales/images/prop/1-1.png"
+  }, {
+    "id": 5,
+    "name": "Hauntingly Beautiful Estate",
+    "address": " Musterstrasse 6, Altstetten, 8048 Zürich, CH",
+    "beds": 3,
+    "toilets": 2,
+    "square": 20,
+    "img": "http://mariusn.com/themes/reales/images/prop/2-1.png"
+  }],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ]
+}
